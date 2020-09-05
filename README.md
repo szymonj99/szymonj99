@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning C++
+- 👯 I’m looking to collaborate on a cross-platform C++ project
+- 📫 How to reach me: szymonj99@protonmail.com
+- 😄 Pronouns: Bossman
+
 <!--
 **szymonj99/szymonj99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
