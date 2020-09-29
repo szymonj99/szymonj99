@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++, C#, Flutter
 - 👯 I’m looking to collaborate on a cross-platform C++ project
 - 📫 How to reach me: szymonj99@protonmail.com
 - 😄 Pronouns: Bossman
