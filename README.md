@@ -1,9 +1,9 @@
 ### Hi there 👋
 
+- ⚡ Studying Software Engineering at UCLan
 - 🌱 I’m currently learning C++, C#, Flutter
 - 👯 I’m looking to collaborate on a cross-platform C++ project
 - 📫 How to reach me: szymonj99@protonmail.com
-- 😄 Pronouns: Bossman
 
 <!--
 **szymonj99/szymonj99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-  Fun fact: ...
 -->
